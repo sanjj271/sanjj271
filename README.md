@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjj271
 - 👀 I’m interested in Data Structures and Deep Learning
 - 🌱 I’m currently learning Competitive Coding
-- 💞️ I’m looking to collaborate on AI/ML projects
+- 💞️ I’m looking to collaborate on Fullstack Projects
 - 📫 Reach me at - Sanj27272@gmail.com
 
 <!---
