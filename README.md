@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjj271
+- 👋 Hi, I’m Sanjana Gogte
 - 👀 I’m interested in Data Structures and Deep Learning
 - 🌱 I’m currently learning Competitive Coding
 - 💞️ I’m looking to collaborate on Fullstack Projects
