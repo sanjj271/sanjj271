@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjana Gogte
-- 👀 I’m interested in  Web Development and Deep Learning
-- 🌱 I’m currently learning Competitive Coding and Backend Development
+- 👀 I’m interested in  Web3 and Deep Learning
+- 🌱 I’m currently learning Competitive Coding and Solidity
 - 💞️ I’m looking to collaborate in Hackathons, Coding Contests
 - 📫 Reach me at - Sanj27272@gmail.com
 
